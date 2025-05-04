@@ -1,0 +1,185 @@
+2025/05/04 23:17:08 ✅ https://github.com is UP (200 OK)
+2025/05/04 23:17:08 ✅ https://apple.com is UP (200 OK)
+2025/05/04 23:17:08 ✅ https://reddit.com is UP (200 OK)
+2025/05/04 23:17:08 ✅ https://google.com is UP (200 OK)
+2025/05/04 23:17:08 ✅ https://stackoverflow.com is UP (200 OK)
+2025/05/04 23:17:08 ✅ https://facebook.com is UP (200 OK)
+2025/05/04 23:17:08 ✅ https://linkedin.com is UP (200 OK)
+2025/05/04 23:17:09 ✅ https://golang.org is UP (200 OK)
+2025/05/04 23:17:09 ✅ https://microsoft.com is UP (200 OK)
+2025/05/04 23:17:09 ✅ https://dropbox.com is UP (200 OK)
+2025/05/04 23:17:09 ❌ https://uber.com returned status 406 Not Acceptable
+2025/05/04 23:17:09 ✅ https://cloudflare.com is UP (200 OK)
+2025/05/04 23:17:09 ✅ https://zoom.us is UP (200 OK)
+2025/05/04 23:17:09 ✅ https://twitch.tv is UP (200 OK)
+2025/05/04 23:17:09 ✅ https://paypal.com is UP (200 OK)
+2025/05/04 23:17:09 ✅ https://amazon.com is UP (200 OK)
+2025/05/04 23:17:09 ❌ https://twitter.com returned status 400 Bad Request
+2025/05/04 23:17:09 ✅ https://instagram.com is UP (200 OK)
+2025/05/04 23:17:09 ✅ https://adobe.com is UP (200 OK)
+2025/05/04 23:17:09 ✅ https://youtube.com is UP (200 OK)
+2025/05/04 23:17:10 ✅ https://mozilla.org is UP (200 OK)
+2025/05/04 23:17:10 ✅ https://nytimes.com is UP (200 OK)
+2025/05/04 23:17:10 ✅ https://pypi.org is UP (200 OK)
+2025/05/04 23:17:10 ✅ https://bbc.com is UP (200 OK)
+2025/05/04 23:17:10 ✅ https://medium.com is UP (200 OK)
+2025/05/04 23:17:10 ✅ https://npmjs.com is UP (200 OK)
+2025/05/04 23:17:10 ❌ https://openai.com returned status 403 Forbidden
+2025/05/04 23:17:10 ✅ https://airbnb.com is UP (200 OK)
+2025/05/04 23:17:10 ✅ https://wikipedia.org is UP (200 OK)
+2025/05/04 23:17:10 ❌ https://udemy.com returned status 403 Forbidden
+2025/05/04 23:17:10 ✅ https://edx.org is UP (200 OK)
+2025/05/04 23:17:10 ❌ https://quora.com returned status 429 Too Many Requests
+2025/05/04 23:17:10 ✅ https://cnn.com is UP (200 OK)
+2025/05/04 23:17:10 ✅ https://github.io is UP (200 OK)
+2025/05/04 23:17:11 ✅ https://vimeo.com is UP (200 OK)
+2025/05/04 23:17:11 ✅ https://vercel.app is UP (200 OK)
+2025/05/04 23:17:11 ✅ https://codecademy.com is UP (200 OK)
+2025/05/04 23:17:11 ✅ https://hackernews.com is UP (200 OK)
+2025/05/04 23:17:11 ✅ https://dev.to is UP (200 OK)
+2025/05/04 23:17:11 ✅ https://geeksforgeeks.org is UP (200 OK)
+2025/05/04 23:17:11 ✅ https://glitch.me is UP (200 OK)
+2025/05/04 23:17:11 ✅ https://bitbucket.org is UP (200 OK)
+2025/05/04 23:17:11 ✅ https://coursera.org is UP (200 OK)
+2025/05/04 23:17:12 ✅ https://replit.com is UP (200 OK)
+2025/05/04 23:17:12 ✅ https://pluralsight.com is UP (200 OK)
+2025/05/04 23:17:12 ✅ https://w3schools.com is UP (200 OK)
+2025/05/04 23:17:12 ✅ https://kaggle.com is UP (200 OK)
+2025/05/04 23:17:12 ❌ https://codepen.io returned status 403 Forbidden
+2025/05/04 23:17:12 ✅ https://codesandbox.io is UP (200 OK)
+2025/05/04 23:17:12 ✅ https://gitlab.com is UP (200 OK)
+2025/05/04 23:17:13 ✅ https://dzone.com is UP (200 OK)
+2025/05/04 23:17:13 ✅ https://sitepoint.com is UP (200 OK)
+2025/05/04 23:17:13 ✅ https://tutorialspoint.com is UP (200 OK)
+2025/05/04 23:17:13 ✅ https://freecodecamp.org is UP (200 OK)
+2025/05/04 23:17:13 ✅ https://jsfiddle.net is UP (200 OK)
+2025/05/04 23:17:13 ✅ https://scaler.com is UP (200 OK)
+2025/05/04 23:17:13 ✅ https://icanhazip.com is UP (200 OK)
+2025/05/04 23:17:14 ✅ https://example.com is UP (200 OK)
+2025/05/04 23:17:14 ✅ https://abc.xyz is UP (200 OK)
+2025/05/04 23:17:14 ✅ https://example.org is UP (200 OK)
+2025/05/04 23:17:14 ✅ https://postman.com is UP (200 OK)
+2025/05/04 23:17:14 ✅ https://programiz.com is UP (200 OK)
+2025/05/04 23:17:14 ❌ https://reqbin.com returned status 403 Forbidden
+2025/05/04 23:17:14 ✅ https://nodejs.org is UP (200 OK)
+2025/05/04 23:17:14 ✅ https://fastapi.tiangolo.com is UP (200 OK)
+2025/05/04 23:17:14 ✅ https://python.org is UP (200 OK)
+2025/05/04 23:17:14 ✅ https://jsonplaceholder.typicode.com is UP (200 OK)
+2025/05/04 23:17:14 ✅ https://vuejs.org is UP (200 OK)
+2025/05/04 23:17:14 ✅ https://reactjs.org is UP (200 OK)
+2025/05/04 23:17:14 ✅ https://openstreetmap.org is UP (200 OK)
+2025/05/04 23:17:14 ✅ https://astro.build is UP (200 OK)
+2025/05/04 23:17:14 ✅ https://svelte.dev is UP (200 OK)
+2025/05/04 23:17:15 ❌ https://deadlink.xyz returned status 403 Forbidden
+2025/05/04 23:17:15 ✅ https://rapidapi.com is UP (200 OK)
+2025/05/04 23:17:15 ✅ https://cdnjs.cloudflare.com is UP (200 OK)
+2025/05/04 23:17:15 ✅ https://reqres.in is UP (200 OK)
+2025/05/04 23:17:15 ✅ https://tailwindcss.com is UP (200 OK)
+2025/05/04 23:17:15 ✅ https://unpkg.com is UP (200 OK)
+2025/05/04 23:17:15 ✅ https://cdnjs.com is UP (200 OK)
+2025/05/04 23:17:15 ✅ https://bootstrapcdn.com is UP (200 OK)
+2025/05/04 23:17:16 ✅ https://angular.io is UP (200 OK)
+2025/05/04 23:17:16   
+2025/05/04 23:17:16 ✅ https://google.com is UP (200 OK)
+2025/05/04 23:17:16 ✅ https://github.com is UP (200 OK)
+2025/05/04 23:17:17 ✅ https://golang.org is UP (200 OK)
+2025/05/04 23:17:18 ✅ https://stackoverflow.com is UP (200 OK)
+2025/05/04 23:17:18 ✅ https://microsoft.com is UP (200 OK)
+2025/05/04 23:17:19 ✅ https://apple.com is UP (200 OK)
+2025/05/04 23:17:20 ✅ https://amazon.com is UP (200 OK)
+2025/05/04 23:17:20 ✅ https://reddit.com is UP (200 OK)
+2025/05/04 23:17:21 ✅ https://linkedin.com is UP (200 OK)
+2025/05/04 23:17:21 ✅ https://facebook.com is UP (200 OK)
+2025/05/04 23:17:23 ✅ https://airbnb.com is UP (200 OK)
+2025/05/04 23:17:23 ❌ https://uber.com returned status 406 Not Acceptable
+2025/05/04 23:17:24 ✅ https://dropbox.com is UP (200 OK)
+2025/05/04 23:17:24 ✅ https://zoom.us is UP (200 OK)
+2025/05/04 23:17:25 ✅ https://paypal.com is UP (200 OK)
+2025/05/04 23:17:25 ✅ https://cloudflare.com is UP (200 OK)
+2025/05/04 23:17:26 ❌ https://twitter.com returned status 400 Bad Request
+2025/05/04 23:17:26 ✅ https://instagram.com is UP (200 OK)
+2025/05/04 23:17:27 ❌ https://quora.com returned status 429 Too Many Requests
+2025/05/04 23:17:27 ✅ https://twitch.tv is UP (200 OK)
+2025/05/04 23:17:27 ✅ https://youtube.com is UP (200 OK)
+2025/05/04 23:17:27 ✅ https://adobe.com is UP (200 OK)
+2025/05/04 23:17:28 ✅ https://mozilla.org is UP (200 OK)
+2025/05/04 23:17:28 ✅ https://bbc.com is UP (200 OK)
+2025/05/04 23:17:28 ✅ https://cnn.com is UP (200 OK)
+2025/05/04 23:17:28 ✅ https://nytimes.com is UP (200 OK)
+2025/05/04 23:17:28 ✅ https://wikipedia.org is UP (200 OK)
+2025/05/04 23:17:29 ✅ https://hackernews.com is UP (200 OK)
+2025/05/04 23:17:29 ✅ https://npmjs.com is UP (200 OK)
+2025/05/04 23:17:29 ✅ https://pypi.org is UP (200 OK)
+2025/05/04 23:17:29 ❌ https://openai.com returned status 403 Forbidden
+2025/05/04 23:17:29 ✅ https://medium.com is UP (200 OK)
+2025/05/04 23:17:30 ✅ https://codecademy.com is UP (200 OK)
+2025/05/04 23:17:31 ✅ https://geeksforgeeks.org is UP (200 OK)
+2025/05/04 23:17:32 ✅ https://coursera.org is UP (200 OK)
+2025/05/04 23:17:32 ✅ https://edx.org is UP (200 OK)
+2025/05/04 23:17:33 ❌ https://udemy.com returned status 403 Forbidden
+2025/05/04 23:17:33 ✅ https://pluralsight.com is UP (200 OK)
+2025/05/04 23:17:33 ✅ https://github.io is UP (200 OK)
+2025/05/04 23:17:34 ✅ https://vimeo.com is UP (200 OK)
+2025/05/04 23:17:35 ✅ https://vercel.app is UP (200 OK)
+2025/05/04 23:17:35 ✅ https://glitch.me is UP (200 OK)
+2025/05/04 23:17:40 ✅ https://dev.to is UP (200 OK)
+2025/05/04 23:17:41 ✅ https://bitbucket.org is UP (200 OK)
+2025/05/04 23:17:42 ✅ https://gitlab.com is UP (200 OK)
+2025/05/04 23:17:43 ✅ https://dzone.com is UP (200 OK)
+2025/05/04 23:17:45 ✅ https://sitepoint.com is UP (200 OK)
+2025/05/04 23:17:45 ✅ https://w3schools.com is UP (200 OK)
+2025/05/04 23:17:46 ✅ https://freecodecamp.org is UP (200 OK)
+2025/05/04 23:17:46 ✅ https://kaggle.com is UP (200 OK)
+2025/05/04 23:17:46 ✅ https://replit.com is UP (200 OK)
+2025/05/04 23:17:47 ✅ https://codesandbox.io is UP (200 OK)
+2025/05/04 23:17:48 ✅ https://jsfiddle.net is UP (200 OK)
+2025/05/04 23:17:48 ❌ https://codepen.io returned status 403 Forbidden
+2025/05/04 23:17:50 ✅ https://programiz.com is UP (200 OK)
+2025/05/04 23:17:53 ✅ https://tutorialspoint.com is UP (200 OK)
+2025/05/04 23:17:53 ✅ https://scaler.com is UP (200 OK)
+2025/05/04 23:17:54 ✅ https://example.com is UP (200 OK)
+2025/05/04 23:17:54 ✅ https://example.org is UP (200 OK)
+2025/05/04 23:17:54 ✅ https://abc.xyz is UP (200 OK)
+2025/05/04 23:17:55 ✅ https://openstreetmap.org is UP (200 OK)
+2025/05/04 23:17:55 ✅ https://icanhazip.com is UP (200 OK)
+2025/05/04 23:17:55 ✅ https://postman.com is UP (200 OK)
+2025/05/04 23:17:56 ✅ https://rapidapi.com is UP (200 OK)
+2025/05/04 23:17:57 ✅ https://reqres.in is UP (200 OK)
+2025/05/04 23:17:57 ✅ https://jsonplaceholder.typicode.com is UP (200 OK)
+2025/05/04 23:17:57 ❌ https://reqbin.com returned status 403 Forbidden
+2025/05/04 23:17:58 ❌ https://deadlink.xyz returned status 403 Forbidden
+2025/05/04 23:17:58 ✅ https://fastapi.tiangolo.com is UP (200 OK)
+2025/05/04 23:17:58 ✅ https://python.org is UP (200 OK)
+2025/05/04 23:17:58 ✅ https://nodejs.org is UP (200 OK)
+2025/05/04 23:17:58 ✅ https://reactjs.org is UP (200 OK)
+2025/05/04 23:17:58 ✅ https://vuejs.org is UP (200 OK)
+2025/05/04 23:17:59 ✅ https://angular.io is UP (200 OK)
+2025/05/04 23:17:59 ✅ https://svelte.dev is UP (200 OK)
+2025/05/04 23:17:59 ✅ https://astro.build is UP (200 OK)
+2025/05/04 23:17:59 ✅ https://tailwindcss.com is UP (200 OK)
+2025/05/04 23:17:59 ✅ https://bootstrapcdn.com is UP (200 OK)
+2025/05/04 23:18:00 ✅ https://unpkg.com is UP (200 OK)
+2025/05/04 23:18:00 ✅ https://cdnjs.com is UP (200 OK)
+2025/05/04 23:18:00 ✅ https://cdnjs.cloudflare.com is UP (200 OK)
+2025/05/04 23:18:00 Duration with Gorutine And channel    ->  8.2571876s
+2025/05/04 23:18:00 Duration without Gorutine And channel ->  43.9959685s
+2025/05/04 23:18:00 ❌ Error Details ❌ 
+2025/05/04 23:18:00 Indicator :  UCU01  | Function :  email_url_checker/Urlchecker.CheckURL  | Line :  23  | Error :  Get "https://netflix.com": stream error: stream ID 3; CANCEL; received from peer
+2025/05/04 23:18:00 Indicator :  UCU01  | Function :  email_url_checker/Urlchecker.CheckURL  | Line :  23  | Error :  Get "https://herokuapp.com": remote error: tls: unrecognized name
+2025/05/04 23:18:00 Indicator :  UCU01  | Function :  email_url_checker/Urlchecker.CheckURL  | Line :  23  | Error :  Get "https://notarealdomain123.com": dial tcp: lookup notarealdomain123.com: no such host
+2025/05/04 23:18:00 Indicator :  UCU01  | Function :  email_url_checker/Urlchecker.CheckURL  | Line :  23  | Error :  Get "https://badurl.fake": dial tcp: lookup badurl.fake: no such host
+2025/05/04 23:18:00 Indicator :  UCU01  | Function :  email_url_checker/Urlchecker.CheckURL  | Line :  23  | Error :  Get "https://example.invalid": dial tcp: lookup example.invalid: no such host
+2025/05/04 23:18:00 Indicator :  UCU01  | Function :  email_url_checker/Urlchecker.CheckURL  | Line :  23  | Error :  Get "https://no-site.local": dial tcp: lookup no-site.local: no such host
+2025/05/04 23:18:00 Indicator :  UCU01  | Function :  email_url_checker/Urlchecker.CheckURL  | Line :  23  | Error :  Get "https://site.test": dial tcp: lookup site.test: no such host
+2025/05/04 23:18:00 Indicator :  UCU01  | Function :  email_url_checker/Urlchecker.CheckURL  | Line :  23  | Error :  Get "https://invalidurl!!": dial tcp: lookup invalidurl!!: no such host
+2025/05/04 23:18:00 Indicator :  UCU01  | Function :  email_url_checker/Urlchecker.CheckURL  | Line :  23  | Error :  Get "https://ftp//wrongprotocol.com": dial tcp: lookup ftp: no such host
+2025/05/04 23:18:00 Indicator :  UCU01  | Function :  email_url_checker/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http//missingcolon.com": unsupported protocol scheme ""
+2025/05/04 23:18:00 Indicator :  UCU01  | Function :  email_url_checker/Urlchecker.CheckURL  | Line :  23  | Error :  Get "https://javatpoint.com": dial tcp: lookup javatpoint.com: getaddrinfow: This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server.
+2025/05/04 23:18:00 Indicator :  UCU01  | Function :  email_url_checker/Urlchecker.CheckURL  | Line :  23  | Error :  Get "https://leetcodetest.com": dial tcp: lookup leetcodetest.com: no such host
+2025/05/04 23:18:00 Indicator :  UCU01  | Function :  email_url_checker/Urlchecker.CheckURL  | Line :  23  | Error :  Get "https://practicesite.dev": dial tcp: lookup practicesite.dev: no such host
+2025/05/04 23:18:00 Indicator :  UCU01  | Function :  email_url_checker/Urlchecker.CheckURL  | Line :  23  | Error :  Get "https://worldtimeapi.org": read tcp [2409:40f4:ad:c6e4:504a:f2ed:51dc:33ba]:55274->[2a09:8280:1::3:e]:443: wsarecv: An existing connection was forcibly closed by the remote host.
+2025/05/04 23:18:00 Indicator :  UCU01  | Function :  email_url_checker/Urlchecker.CheckURL  | Line :  23  | Error :  Get "httpstat.us": unsupported protocol scheme ""
+2025/05/04 23:18:00 Indicator :  UCU01  | Function :  email_url_checker/Urlchecker.CheckURL  | Line :  23  | Error :  Get "https://mocky.io": tls: failed to verify certificate: x509: certificate signed by unknown authority
+2025/05/04 23:18:00 Indicator :  UCU01  | Function :  email_url_checker/Urlchecker.CheckURL  | Line :  23  | Error :  Get "https://site404test.com": dial tcp: lookup site404test.com: no such host
+2025/05/04 23:18:00 Indicator :  UCU01  | Function :  email_url_checker/Urlchecker.CheckURL  | Line :  23  | Error :  Get "https://slowwebsite.test": dial tcp: lookup slowwebsite.test: no such host
+2025/05/04 23:18:00 ❌ Error Details ❌ 

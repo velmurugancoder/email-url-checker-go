@@ -1,0 +1,608 @@
+2025/05/04 23:23:59 ✅ http://google.com is UP (200 OK)
+2025/05/04 23:23:59 ✅ http://apple.com is UP (200 OK)
+2025/05/04 23:23:59 ✅ http://github.com is UP (200 OK)
+2025/05/04 23:23:59 ✅ http://reddit.com is UP (200 OK)
+2025/05/04 23:23:59 ✅ http://facebook.com is UP (200 OK)
+2025/05/04 23:23:59 ✅ http://linkedin.com is UP (200 OK)
+2025/05/04 23:23:59 ✅ http://microsoft.com is UP (200 OK)
+2025/05/04 23:24:00 ❌ http://uber.com returned status 406 Not Acceptable
+2025/05/04 23:24:00 ✅ http://golang.org is UP (200 OK)
+2025/05/04 23:24:00 ✅ http://zoom.us is UP (200 OK)
+2025/05/04 23:24:00 ✅ http://dropbox.com is UP (200 OK)
+2025/05/04 23:24:00 ✅ http://paypal.com is UP (200 OK)
+2025/05/04 23:24:00 ✅ http://twitch.tv is UP (200 OK)
+2025/05/04 23:24:00 ✅ http://cloudflare.com is UP (200 OK)
+2025/05/04 23:24:00 ✅ http://stackoverflow.com is UP (200 OK)
+2025/05/04 23:24:00 ✅ http://adobe.com is UP (200 OK)
+2025/05/04 23:24:00 ✅ http://bbc.com is UP (200 OK)
+2025/05/04 23:24:00 ✅ http://youtube.com is UP (200 OK)
+2025/05/04 23:24:00 ✅ http://instagram.com is UP (200 OK)
+2025/05/04 23:24:00 ❌ http://twitter.com returned status 400 Bad Request
+2025/05/04 23:24:01 ✅ http://mozilla.org is UP (200 OK)
+2025/05/04 23:24:01 ✅ http://npmjs.com is UP (200 OK)
+2025/05/04 23:24:01 ✅ http://pypi.org is UP (200 OK)
+2025/05/04 23:24:01 ✅ http://amazon.com is UP (200 OK)
+2025/05/04 23:24:01 ❌ http://openai.com returned status 403 Forbidden
+2025/05/04 23:24:01 ✅ http://cnn.com is UP (200 OK)
+2025/05/04 23:24:01 ✅ http://medium.com is UP (200 OK)
+2025/05/04 23:24:01 ✅ http://wikipedia.org is UP (200 OK)
+2025/05/04 23:24:01 ❌ http://udemy.com returned status 403 Forbidden
+2025/05/04 23:24:01 ✅ http://edx.org is UP (200 OK)
+2025/05/04 23:24:01 ✅ http://nytimes.com is UP (200 OK)
+2025/05/04 23:24:01 ✅ http://github.io is UP (200 OK)
+2025/05/04 23:24:01 ✅ http://airbnb.com is UP (200 OK)
+2025/05/04 23:24:02 ✅ http://glitch.me is UP (200 OK)
+2025/05/04 23:24:02 ✅ http://hackernews.com is UP (200 OK)
+2025/05/04 23:24:02 ✅ http://vimeo.com is UP (200 OK)
+2025/05/04 23:24:02 ✅ http://vercel.app is UP (200 OK)
+2025/05/04 23:24:02 ❌ http://herokuapp.com returned status 404 Not Found
+2025/05/04 23:24:02 ✅ http://dev.to is UP (200 OK)
+2025/05/04 23:24:02 ✅ http://codecademy.com is UP (200 OK)
+2025/05/04 23:24:02 ✅ http://coursera.org is UP (200 OK)
+2025/05/04 23:24:02 ❌ http://quora.com returned status 429 Too Many Requests
+2025/05/04 23:24:02 ✅ http://replit.com is UP (200 OK)
+2025/05/04 23:24:02 ✅ http://w3schools.com is UP (200 OK)
+2025/05/04 23:24:02 ✅ http://bitbucket.org is UP (200 OK)
+2025/05/04 23:24:02 ❌ http://codepen.io returned status 403 Forbidden
+2025/05/04 23:24:02 ✅ http://pluralsight.com is UP (200 OK)
+2025/05/04 23:24:02 ✅ http://geeksforgeeks.org is UP (200 OK)
+2025/05/04 23:24:03 ✅ http://codesandbox.io is UP (200 OK)
+2025/05/04 23:24:03 ✅ http://kaggle.com is UP (200 OK)
+2025/05/04 23:24:03 ✅ http://gitlab.com is UP (200 OK)
+2025/05/04 23:24:03 ✅ http://tutorialspoint.com is UP (200 OK)
+2025/05/04 23:24:03 ✅ http://example.com is UP (200 OK)
+2025/05/04 23:24:03 ✅ http://example.org is UP (200 OK)
+2025/05/04 23:24:04 ✅ http://abc.xyz is UP (200 OK)
+2025/05/04 23:24:04 ✅ http://scaler.com is UP (200 OK)
+2025/05/04 23:24:04 ✅ http://icanhazip.com is UP (200 OK)
+2025/05/04 23:24:04 ✅ http://dzone.com is UP (200 OK)
+2025/05/04 23:24:04 ✅ http://jsfiddle.net is UP (200 OK)
+2025/05/04 23:24:04 ✅ http://programiz.com is UP (200 OK)
+2025/05/04 23:24:04 ✅ http://freecodecamp.org is UP (200 OK)
+2025/05/04 23:24:04 ✅ http://postman.com is UP (200 OK)
+2025/05/04 23:24:04 ✅ http://sitepoint.com is UP (200 OK)
+2025/05/04 23:24:04 ✅ http://httpstat.us is UP (200 OK)
+2025/05/04 23:24:04 ✅ http://reqres.in is UP (200 OK)
+2025/05/04 23:24:04 ✅ http://jsonplaceholder.typicode.com is UP (200 OK)
+2025/05/04 23:24:04 ❌ http://reqbin.com returned status 403 Forbidden
+2025/05/04 23:24:05 ✅ http://python.org is UP (200 OK)
+2025/05/04 23:24:05 ✅ http://fastapi.tiangolo.com is UP (200 OK)
+2025/05/04 23:24:05 ✅ http://rapidapi.com is UP (200 OK)
+2025/05/04 23:24:05 ❌ http://deadlink.xyz returned status 403 Forbidden
+2025/05/04 23:24:05 ✅ http://vuejs.org is UP (200 OK)
+2025/05/04 23:24:05 ✅ http://mocky.io is UP (200 OK)
+2025/05/04 23:24:05 ✅ http://nodejs.org is UP (200 OK)
+2025/05/04 23:24:05 ✅ http://svelte.dev is UP (200 OK)
+2025/05/04 23:24:05 ✅ http://reactjs.org is UP (200 OK)
+2025/05/04 23:24:05 ✅ http://astro.build is UP (200 OK)
+2025/05/04 23:24:05 ✅ http://openstreetmap.org is UP (200 OK)
+2025/05/04 23:24:05 ✅ http://unpkg.com is UP (200 OK)
+2025/05/04 23:24:05 ✅ http://tailwindcss.com is UP (200 OK)
+2025/05/04 23:24:05 ✅ http://duckduckgo.com is UP (200 OK)
+2025/05/04 23:24:05 ✅ http://angular.io is UP (200 OK)
+2025/05/04 23:24:05 ✅ http://bing.com is UP (200 OK)
+2025/05/04 23:24:05 ✅ http://testsite4.com is UP (200 OK)
+2025/05/04 23:24:06 ✅ http://news.ycombinator.com is UP (200 OK)
+2025/05/04 23:24:06 ✅ http://cdnjs.com is UP (200 OK)
+2025/05/04 23:24:06 ✅ http://testsite7.com is UP (200 OK)
+2025/05/04 23:24:06 ✅ http://firebase.google.com is UP (200 OK)
+2025/05/04 23:24:06 ✅ http://bootstrapcdn.com is UP (200 OK)
+2025/05/04 23:24:06 ✅ http://testsite3.com is UP (200 OK)
+2025/05/04 23:24:06 ❌ http://yahoo.com returned status 429 Too Many Requests
+2025/05/04 23:24:06 ❌ http://testsite8.com returned status 403 Forbidden
+2025/05/04 23:24:06 ✅ http://testsite2.com is UP (200 OK)
+2025/05/04 23:24:06 ❌ http://testsite11.com returned status 404 Not Found
+2025/05/04 23:24:07 ✅ http://testsite50.com is UP (200 OK)
+2025/05/04 23:24:07 ✅ http://testsite38.com is UP (200 OK)
+2025/05/04 23:24:07 ❌ http://testsite6.com returned status 403 Forbidden
+2025/05/04 23:24:08 ✅ http://testsite79.com is UP (200 OK)
+2025/05/04 23:24:09 ❌ http://testsite123.com returned status 403 Forbidden
+2025/05/04 23:24:09 ❌ http://testsite124.com returned status 403 Forbidden
+2025/05/04 23:24:10 ✅ http://testsite283.com is UP (200 OK)
+2025/05/04 23:24:12 ❌ http://testsite404.com returned status 404 Not Found
+2025/05/04 23:24:13 ✅ http://testsite360.com is UP (200 OK)
+2025/05/04 23:24:13   
+2025/05/04 23:24:13 ✅ http://google.com is UP (200 OK)
+2025/05/04 23:24:13 ✅ http://github.com is UP (200 OK)
+2025/05/04 23:24:14 ✅ http://golang.org is UP (200 OK)
+2025/05/04 23:24:15 ✅ http://stackoverflow.com is UP (200 OK)
+2025/05/04 23:24:16 ✅ http://microsoft.com is UP (200 OK)
+2025/05/04 23:24:16 ✅ http://apple.com is UP (200 OK)
+2025/05/04 23:24:17 ✅ http://amazon.com is UP (200 OK)
+2025/05/04 23:24:18 ✅ http://reddit.com is UP (200 OK)
+2025/05/04 23:24:19 ✅ http://linkedin.com is UP (200 OK)
+2025/05/04 23:24:19 ✅ http://facebook.com is UP (200 OK)
+2025/05/04 23:24:22 ✅ http://airbnb.com is UP (200 OK)
+2025/05/04 23:24:23 ❌ http://uber.com returned status 406 Not Acceptable
+2025/05/04 23:24:24 ✅ http://dropbox.com is UP (200 OK)
+2025/05/04 23:24:24 ✅ http://zoom.us is UP (200 OK)
+2025/05/04 23:24:25 ✅ http://paypal.com is UP (200 OK)
+2025/05/04 23:24:25 ✅ http://cloudflare.com is UP (200 OK)
+2025/05/04 23:24:26 ❌ http://twitter.com returned status 400 Bad Request
+2025/05/04 23:24:27 ✅ http://instagram.com is UP (200 OK)
+2025/05/04 23:24:29 ❌ http://quora.com returned status 429 Too Many Requests
+2025/05/04 23:24:29 ✅ http://twitch.tv is UP (200 OK)
+2025/05/04 23:24:29 ✅ http://youtube.com is UP (200 OK)
+2025/05/04 23:24:29 ✅ http://adobe.com is UP (200 OK)
+2025/05/04 23:24:30 ✅ http://mozilla.org is UP (200 OK)
+2025/05/04 23:24:30 ✅ http://bbc.com is UP (200 OK)
+2025/05/04 23:24:31 ✅ http://cnn.com is UP (200 OK)
+2025/05/04 23:24:31 ✅ http://nytimes.com is UP (200 OK)
+2025/05/04 23:24:31 ✅ http://wikipedia.org is UP (200 OK)
+2025/05/04 23:24:31 ✅ http://hackernews.com is UP (200 OK)
+2025/05/04 23:24:32 ✅ http://npmjs.com is UP (200 OK)
+2025/05/04 23:24:32 ✅ http://pypi.org is UP (200 OK)
+2025/05/04 23:24:32 ❌ http://openai.com returned status 403 Forbidden
+2025/05/04 23:24:32 ✅ http://medium.com is UP (200 OK)
+2025/05/04 23:24:33 ✅ http://codecademy.com is UP (200 OK)
+2025/05/04 23:24:35 ✅ http://geeksforgeeks.org is UP (200 OK)
+2025/05/04 23:24:36 ✅ http://coursera.org is UP (200 OK)
+2025/05/04 23:24:36 ✅ http://edx.org is UP (200 OK)
+2025/05/04 23:24:36 ❌ http://udemy.com returned status 403 Forbidden
+2025/05/04 23:24:38 ✅ http://pluralsight.com is UP (200 OK)
+2025/05/04 23:24:38 ✅ http://github.io is UP (200 OK)
+2025/05/04 23:24:38 ✅ http://vimeo.com is UP (200 OK)
+2025/05/04 23:24:39 ❌ http://herokuapp.com returned status 404 Not Found
+2025/05/04 23:24:39 ✅ http://vercel.app is UP (200 OK)
+2025/05/04 23:24:40 ✅ http://glitch.me is UP (200 OK)
+2025/05/04 23:24:40 ✅ http://dev.to is UP (200 OK)
+2025/05/04 23:24:40 ✅ http://bitbucket.org is UP (200 OK)
+2025/05/04 23:24:41 ✅ http://gitlab.com is UP (200 OK)
+2025/05/04 23:24:43 ✅ http://dzone.com is UP (200 OK)
+2025/05/04 23:24:46 ✅ http://sitepoint.com is UP (200 OK)
+2025/05/04 23:24:46 ✅ http://w3schools.com is UP (200 OK)
+2025/05/04 23:24:48 ✅ http://freecodecamp.org is UP (200 OK)
+2025/05/04 23:24:49 ✅ http://kaggle.com is UP (200 OK)
+2025/05/04 23:24:49 ✅ http://replit.com is UP (200 OK)
+2025/05/04 23:24:50 ✅ http://codesandbox.io is UP (200 OK)
+2025/05/04 23:24:51 ✅ http://jsfiddle.net is UP (200 OK)
+2025/05/04 23:24:51 ❌ http://codepen.io returned status 403 Forbidden
+2025/05/04 23:24:52 ✅ http://programiz.com is UP (200 OK)
+2025/05/04 23:24:54 ✅ http://tutorialspoint.com is UP (200 OK)
+2025/05/04 23:24:55 ✅ http://scaler.com is UP (200 OK)
+2025/05/04 23:24:56 ✅ http://example.com is UP (200 OK)
+2025/05/04 23:24:56 ✅ http://example.org is UP (200 OK)
+2025/05/04 23:24:56 ✅ http://abc.xyz is UP (200 OK)
+2025/05/04 23:24:57 ✅ http://openstreetmap.org is UP (200 OK)
+2025/05/04 23:24:57 ✅ http://icanhazip.com is UP (200 OK)
+2025/05/04 23:24:58 ✅ http://postman.com is UP (200 OK)
+2025/05/04 23:24:59 ✅ http://rapidapi.com is UP (200 OK)
+2025/05/04 23:24:59 ✅ http://reqres.in is UP (200 OK)
+2025/05/04 23:25:00 ✅ http://httpstat.us is UP (200 OK)
+2025/05/04 23:25:01 ✅ http://mocky.io is UP (200 OK)
+2025/05/04 23:25:01 ✅ http://jsonplaceholder.typicode.com is UP (200 OK)
+2025/05/04 23:25:01 ❌ http://reqbin.com returned status 403 Forbidden
+2025/05/04 23:25:02 ❌ http://deadlink.xyz returned status 403 Forbidden
+2025/05/04 23:25:02 ✅ http://fastapi.tiangolo.com is UP (200 OK)
+2025/05/04 23:25:02 ✅ http://python.org is UP (200 OK)
+2025/05/04 23:25:02 ✅ http://nodejs.org is UP (200 OK)
+2025/05/04 23:25:02 ✅ http://reactjs.org is UP (200 OK)
+2025/05/04 23:25:03 ✅ http://vuejs.org is UP (200 OK)
+2025/05/04 23:25:03 ✅ http://angular.io is UP (200 OK)
+2025/05/04 23:25:03 ✅ http://svelte.dev is UP (200 OK)
+2025/05/04 23:25:04 ✅ http://astro.build is UP (200 OK)
+2025/05/04 23:25:04 ✅ http://tailwindcss.com is UP (200 OK)
+2025/05/04 23:25:05 ✅ http://bootstrapcdn.com is UP (200 OK)
+2025/05/04 23:25:05 ✅ http://unpkg.com is UP (200 OK)
+2025/05/04 23:25:06 ✅ http://cdnjs.com is UP (200 OK)
+2025/05/04 23:25:07 ✅ http://firebase.google.com is UP (200 OK)
+2025/05/04 23:25:07 ✅ http://news.ycombinator.com is UP (200 OK)
+2025/05/04 23:25:08 ✅ http://duckduckgo.com is UP (200 OK)
+2025/05/04 23:25:08 ✅ http://bing.com is UP (200 OK)
+2025/05/04 23:25:09 ❌ http://yahoo.com returned status 429 Too Many Requests
+2025/05/04 23:25:15 ❌ http://testsite1.com returned status 403 Forbidden
+2025/05/04 23:25:16 ✅ http://testsite2.com is UP (200 OK)
+2025/05/04 23:25:21 ✅ http://testsite4.com is UP (200 OK)
+2025/05/04 23:25:27 ❌ http://testsite6.com returned status 403 Forbidden
+2025/05/04 23:25:30 ✅ http://testsite7.com is UP (200 OK)
+2025/05/04 23:25:31 ❌ http://testsite8.com returned status 403 Forbidden
+2025/05/04 23:25:32 ❌ http://testsite11.com returned status 404 Not Found
+2025/05/04 23:25:34 ✅ http://testsite38.com is UP (200 OK)
+2025/05/04 23:25:35 ✅ http://testsite50.com is UP (200 OK)
+2025/05/04 23:25:41 ✅ http://testsite79.com is UP (200 OK)
+2025/05/04 23:25:49 ❌ http://testsite123.com returned status 403 Forbidden
+2025/05/04 23:25:50 ❌ http://testsite124.com returned status 403 Forbidden
+2025/05/04 23:25:57 ✅ http://testsite283.com is UP (200 OK)
+2025/05/04 23:26:01 ✅ http://testsite360.com is UP (200 OK)
+2025/05/04 23:26:03 ❌ http://testsite404.com returned status 404 Not Found
+2025/05/04 23:26:03 Duration with Gorutine And channel    ->  14.2477293s
+2025/05/04 23:26:03 Duration without Gorutine And channel ->  1m50.7374181s
+2025/05/04 23:26:03 ❌ Error Details ❌ 
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "https://netflix.com/": stream error: stream ID 3; CANCEL; received from peer
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://javatpoint.com": dial tcp: lookup javatpoint.com: getaddrinfow: This is usually a temporary error during hostname resolution and means that the local server did not receive a response from an authoritative server.
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://worldtimeapi.org": read tcp [2409:40f4:ad:c6e4:504a:f2ed:51dc:33ba]:55903->[2a09:8280:1::3:e]:80: wsarecv: An existing connection was forcibly closed by the remote host.
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://site404test.com": dial tcp: lookup site404test.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://baidu.com": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite3.com": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite5.com": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite9.com": dial tcp: lookup testsite9.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite10.com": dial tcp: lookup testsite10.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite12.com": dial tcp: lookup testsite12.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite13.com": dial tcp: lookup testsite13.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite14.com": dial tcp: lookup testsite14.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite15.com": dial tcp: lookup testsite15.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite16.com": dial tcp: lookup testsite16.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite17.com": dial tcp: lookup testsite17.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite18.com": dial tcp: lookup testsite18.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite19.com": dial tcp: lookup testsite19.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite20.com": dial tcp: lookup testsite20.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "https://testsite21.com/": tls: failed to verify certificate: x509: certificate has expired or is not yet valid: 
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite22.com": dial tcp: lookup testsite22.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite23.com": dial tcp: lookup testsite23.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite24.com": dial tcp: lookup testsite24.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite25.com": dial tcp: lookup testsite25.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite26.com": dial tcp: lookup testsite26.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite27.com": dial tcp: lookup testsite27.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite28.com": dial tcp: lookup testsite28.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite29.com": dial tcp: lookup testsite29.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite30.com": dial tcp: lookup testsite30.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite31.com": dial tcp: lookup testsite31.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite32.com": dial tcp: lookup testsite32.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite33.com": dial tcp: lookup testsite33.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite34.com": dial tcp: lookup testsite34.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite35.com": dial tcp: lookup testsite35.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite36.com": dial tcp: lookup testsite36.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite37.com": dial tcp: lookup testsite37.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite39.com": dial tcp: lookup testsite39.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite40.com": dial tcp: lookup testsite40.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite41.com": dial tcp: lookup testsite41.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite42.com": dial tcp: lookup testsite42.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite43.com": dial tcp: lookup testsite43.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite44.com": dial tcp: lookup testsite44.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite45.com": dial tcp: lookup testsite45.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite46.com": dial tcp: lookup testsite46.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite47.com": dial tcp: lookup testsite47.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite48.com": dial tcp: lookup testsite48.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite49.com": dial tcp: lookup testsite49.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite51.com": dial tcp: lookup testsite51.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite52.com": dial tcp: lookup testsite52.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite53.com": dial tcp: lookup testsite53.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite54.com": dial tcp: lookup testsite54.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite55.com": dial tcp: lookup testsite55.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite56.com": dial tcp: lookup testsite56.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite57.com": dial tcp: lookup testsite57.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite58.com": dial tcp: lookup testsite58.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite59.com": dial tcp: lookup testsite59.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite60.com": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite61.com": dial tcp: lookup testsite61.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite62.com": dial tcp: lookup testsite62.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite63.com": dial tcp: lookup testsite63.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite64.com": dial tcp: lookup testsite64.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite65.com": dial tcp: lookup testsite65.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite66.com": dial tcp: lookup testsite66.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite67.com": dial tcp: lookup testsite67.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite68.com": dial tcp: lookup testsite68.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite69.com": dial tcp: lookup testsite69.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite70.com": dial tcp: lookup testsite70.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite71.com": dial tcp: lookup testsite71.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite72.com": dial tcp: lookup testsite72.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite73.com": dial tcp: lookup testsite73.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite74.com": dial tcp: lookup testsite74.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite75.com": dial tcp: lookup testsite75.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite76.com": dial tcp: lookup testsite76.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite77.com": dial tcp: lookup testsite77.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite78.com": dial tcp: lookup testsite78.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite80.com": dial tcp: lookup testsite80.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite81.com": dial tcp: lookup testsite81.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite82.com": dial tcp: lookup testsite82.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite83.com": dial tcp: lookup testsite83.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite84.com": dial tcp: lookup testsite84.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite85.com": dial tcp: lookup testsite85.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite86.com": dial tcp: lookup testsite86.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite87.com": dial tcp: lookup testsite87.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite88.com": dial tcp: lookup testsite88.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite89.com": dial tcp: lookup testsite89.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite90.com": dial tcp: lookup testsite90.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite91.com": dial tcp: lookup testsite91.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite92.com": dial tcp: lookup testsite92.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite93.com": dial tcp: lookup testsite93.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite94.com": dial tcp: lookup testsite94.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite95.com": dial tcp: lookup testsite95.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite96.com": dial tcp: lookup testsite96.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite97.com": dial tcp: lookup testsite97.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite98.com": dial tcp: lookup testsite98.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "https://www.testsite99.com/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite100.com": dial tcp: lookup testsite100.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite101.com": dial tcp: lookup testsite101.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite102.com": dial tcp: lookup testsite102.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite103.com": dial tcp: lookup testsite103.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite104.com": dial tcp: lookup testsite104.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite105.com": dial tcp: lookup testsite105.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite106.com": dial tcp: lookup testsite106.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite107.com": dial tcp: lookup testsite107.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite108.com": dial tcp: lookup testsite108.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite109.com": dial tcp: lookup testsite109.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite110.com": dial tcp: lookup testsite110.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite111.com": dial tcp: lookup testsite111.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite112.com": dial tcp: lookup testsite112.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite113.com": dial tcp: lookup testsite113.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite114.com": dial tcp: lookup testsite114.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite115.com": dial tcp: lookup testsite115.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite116.com": dial tcp: lookup testsite116.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite117.com": dial tcp: lookup testsite117.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite118.com": dial tcp: lookup testsite118.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite119.com": dial tcp: lookup testsite119.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite120.com": dial tcp: lookup testsite120.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite121.com": dial tcp: lookup testsite121.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite122.com": dial tcp: lookup testsite122.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite125.com": dial tcp: lookup testsite125.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite126.com": dial tcp: lookup testsite126.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite127.com": dial tcp: lookup testsite127.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite128.com": dial tcp: lookup testsite128.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite129.com": dial tcp: lookup testsite129.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite130.com": dial tcp: lookup testsite130.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite131.com": dial tcp: lookup testsite131.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite132.com": dial tcp: lookup testsite132.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite133.com": dial tcp: lookup testsite133.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite134.com": dial tcp: lookup testsite134.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite135.com": dial tcp: lookup testsite135.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite136.com": dial tcp: lookup testsite136.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite137.com": dial tcp: lookup testsite137.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite138.com": dial tcp: lookup testsite138.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite139.com": dial tcp: lookup testsite139.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite140.com": dial tcp: lookup testsite140.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite141.com": dial tcp: lookup testsite141.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite142.com": dial tcp: lookup testsite142.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite143.com": dial tcp: lookup testsite143.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite144.com": dial tcp: lookup testsite144.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite145.com": dial tcp: lookup testsite145.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite146.com": dial tcp: lookup testsite146.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite147.com": dial tcp: lookup testsite147.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite148.com": dial tcp: lookup testsite148.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite149.com": dial tcp: lookup testsite149.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite150.com": dial tcp: lookup testsite150.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite151.com": dial tcp: lookup testsite151.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite152.com": dial tcp: lookup testsite152.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite153.com": dial tcp: lookup testsite153.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite154.com": dial tcp: lookup testsite154.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite155.com": dial tcp: lookup testsite155.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite156.com": dial tcp: lookup testsite156.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite157.com": dial tcp: lookup testsite157.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite158.com": dial tcp: lookup testsite158.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite159.com": dial tcp: lookup testsite159.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite160.com": dial tcp: lookup testsite160.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite161.com": dial tcp: lookup testsite161.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite162.com": dial tcp: lookup testsite162.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite163.com": dial tcp: lookup testsite163.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite164.com": dial tcp: lookup testsite164.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite165.com": dial tcp: lookup testsite165.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite166.com": dial tcp: lookup testsite166.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite167.com": dial tcp: lookup testsite167.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite168.com": dial tcp: lookup testsite168.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite169.com": dial tcp: lookup testsite169.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite170.com": dial tcp: lookup testsite170.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite171.com": dial tcp: lookup testsite171.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite172.com": dial tcp: lookup testsite172.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite173.com": dial tcp: lookup testsite173.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite174.com": dial tcp: lookup testsite174.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite175.com": dial tcp: lookup testsite175.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite176.com": dial tcp: lookup testsite176.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite177.com": dial tcp: lookup testsite177.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite178.com": dial tcp: lookup testsite178.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite179.com": dial tcp: lookup testsite179.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite180.com": dial tcp: lookup testsite180.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite181.com": dial tcp: lookup testsite181.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite182.com": dial tcp: lookup testsite182.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite183.com": dial tcp: lookup testsite183.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite184.com": dial tcp: lookup testsite184.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite185.com": dial tcp: lookup testsite185.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite186.com": dial tcp: lookup testsite186.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite187.com": dial tcp: lookup testsite187.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite188.com": dial tcp: lookup testsite188.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite189.com": dial tcp: lookup testsite189.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite190.com": dial tcp: lookup testsite190.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite191.com": dial tcp: lookup testsite191.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite192.com": dial tcp: lookup testsite192.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite193.com": dial tcp: lookup testsite193.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite194.com": dial tcp: lookup testsite194.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite195.com": dial tcp: lookup testsite195.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite196.com": dial tcp: lookup testsite196.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite197.com": dial tcp: lookup testsite197.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite198.com": dial tcp: lookup testsite198.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite199.com": dial tcp: lookup testsite199.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite200.com": dial tcp: lookup testsite200.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite201.com": dial tcp: lookup testsite201.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite202.com": dial tcp: lookup testsite202.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite203.com": dial tcp: lookup testsite203.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite204.com": dial tcp: lookup testsite204.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite205.com": dial tcp: lookup testsite205.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite206.com": dial tcp: lookup testsite206.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite207.com": dial tcp: lookup testsite207.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite208.com": dial tcp: lookup testsite208.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite209.com": dial tcp: lookup testsite209.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite210.com": dial tcp: lookup testsite210.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite211.com": dial tcp: lookup testsite211.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite212.com": dial tcp: lookup testsite212.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite213.com": dial tcp: lookup testsite213.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite214.com": dial tcp: lookup testsite214.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite215.com": dial tcp: lookup testsite215.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite216.com": dial tcp: lookup testsite216.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite217.com": dial tcp: lookup testsite217.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite218.com": dial tcp: lookup testsite218.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite219.com": dial tcp: lookup testsite219.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite220.com": dial tcp: lookup testsite220.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite221.com": dial tcp: lookup testsite221.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite222.com": dial tcp: lookup testsite222.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite223.com": dial tcp: lookup testsite223.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite224.com": dial tcp: lookup testsite224.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite225.com": dial tcp: lookup testsite225.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite226.com": dial tcp: lookup testsite226.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite227.com": dial tcp: lookup testsite227.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite228.com": dial tcp: lookup testsite228.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite229.com": dial tcp: lookup testsite229.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite230.com": dial tcp: lookup testsite230.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite231.com": dial tcp: lookup testsite231.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite232.com": dial tcp: lookup testsite232.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite233.com": dial tcp: lookup testsite233.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite234.com": dial tcp: lookup testsite234.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite235.com": dial tcp: lookup testsite235.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite236.com": dial tcp: lookup testsite236.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite237.com": dial tcp: lookup testsite237.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite238.com": dial tcp: lookup testsite238.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite239.com": dial tcp: lookup testsite239.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite240.com": dial tcp: lookup testsite240.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite241.com": dial tcp: lookup testsite241.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite242.com": dial tcp: lookup testsite242.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite243.com": dial tcp: lookup testsite243.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite244.com": dial tcp: lookup testsite244.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite245.com": dial tcp: lookup testsite245.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite246.com": dial tcp: lookup testsite246.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite247.com": dial tcp: lookup testsite247.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite248.com": dial tcp: lookup testsite248.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite249.com": dial tcp: lookup testsite249.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite250.com": dial tcp: lookup testsite250.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite251.com": dial tcp: lookup testsite251.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite252.com": dial tcp: lookup testsite252.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite253.com": dial tcp: lookup testsite253.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite254.com": dial tcp: lookup testsite254.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite255.com": dial tcp: lookup testsite255.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite256.com": dial tcp: lookup testsite256.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite257.com": dial tcp: lookup testsite257.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite258.com": dial tcp: lookup testsite258.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite259.com": dial tcp: lookup testsite259.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite260.com": dial tcp: lookup testsite260.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite261.com": dial tcp: lookup testsite261.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite262.com": dial tcp: lookup testsite262.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite263.com": dial tcp: lookup testsite263.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite264.com": dial tcp: lookup testsite264.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite265.com": dial tcp: lookup testsite265.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite266.com": dial tcp: lookup testsite266.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite267.com": dial tcp: lookup testsite267.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite268.com": dial tcp: lookup testsite268.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite269.com": dial tcp: lookup testsite269.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite270.com": dial tcp: lookup testsite270.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite271.com": dial tcp: lookup testsite271.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite272.com": dial tcp: lookup testsite272.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite273.com": dial tcp: lookup testsite273.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite274.com": dial tcp: lookup testsite274.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite275.com": dial tcp: lookup testsite275.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite276.com": dial tcp: lookup testsite276.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite277.com": dial tcp: lookup testsite277.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite278.com": dial tcp: lookup testsite278.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite279.com": dial tcp: lookup testsite279.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite280.com": dial tcp: lookup testsite280.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite281.com": dial tcp: lookup testsite281.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite282.com": dial tcp: lookup testsite282.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite284.com": dial tcp: lookup testsite284.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite285.com": dial tcp: lookup testsite285.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite286.com": dial tcp: lookup testsite286.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite287.com": dial tcp: lookup testsite287.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite288.com": dial tcp: lookup testsite288.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite289.com": dial tcp: lookup testsite289.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite290.com": dial tcp: lookup testsite290.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite291.com": dial tcp: lookup testsite291.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite292.com": dial tcp: lookup testsite292.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite293.com": dial tcp: lookup testsite293.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite294.com": dial tcp: lookup testsite294.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite295.com": dial tcp: lookup testsite295.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite296.com": dial tcp: lookup testsite296.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite297.com": dial tcp: lookup testsite297.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite298.com": dial tcp: lookup testsite298.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite299.com": dial tcp: lookup testsite299.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite300.com": dial tcp: lookup testsite300.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite301.com": dial tcp: lookup testsite301.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite302.com": dial tcp: lookup testsite302.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite303.com": dial tcp: lookup testsite303.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite304.com": dial tcp: lookup testsite304.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite305.com": dial tcp: lookup testsite305.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite306.com": dial tcp: lookup testsite306.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite307.com": dial tcp: lookup testsite307.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite308.com": dial tcp: lookup testsite308.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite309.com": dial tcp: lookup testsite309.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite310.com": dial tcp: lookup testsite310.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite311.com": dial tcp: lookup testsite311.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite312.com": dial tcp: lookup testsite312.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite313.com": dial tcp: lookup testsite313.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite314.com": dial tcp: lookup testsite314.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite315.com": dial tcp: lookup testsite315.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite316.com": dial tcp: lookup testsite316.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite317.com": dial tcp: lookup testsite317.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite318.com": dial tcp: lookup testsite318.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite319.com": dial tcp: lookup testsite319.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite320.com": dial tcp: lookup testsite320.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite321.com": dial tcp: lookup testsite321.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite322.com": dial tcp: lookup testsite322.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite323.com": dial tcp: lookup testsite323.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite324.com": dial tcp: lookup testsite324.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite325.com": dial tcp: lookup testsite325.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite326.com": dial tcp: lookup testsite326.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite327.com": dial tcp: lookup testsite327.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite328.com": dial tcp: lookup testsite328.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite329.com": dial tcp: lookup testsite329.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite330.com": dial tcp: lookup testsite330.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite331.com": dial tcp: lookup testsite331.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite332.com": dial tcp: lookup testsite332.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite333.com": dial tcp: lookup testsite333.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite334.com": dial tcp: lookup testsite334.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite335.com": dial tcp: lookup testsite335.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite336.com": dial tcp: lookup testsite336.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite337.com": dial tcp: lookup testsite337.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite338.com": dial tcp: lookup testsite338.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite339.com": dial tcp: lookup testsite339.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite340.com": dial tcp: lookup testsite340.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite341.com": dial tcp: lookup testsite341.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite342.com": dial tcp: lookup testsite342.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite343.com": dial tcp: lookup testsite343.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite344.com": dial tcp: lookup testsite344.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite345.com": dial tcp: lookup testsite345.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite346.com": dial tcp: lookup testsite346.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite347.com": dial tcp: lookup testsite347.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite348.com": dial tcp: lookup testsite348.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite349.com": dial tcp: lookup testsite349.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite350.com": dial tcp: lookup testsite350.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite351.com": dial tcp: lookup testsite351.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite352.com": dial tcp: lookup testsite352.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite353.com": dial tcp: lookup testsite353.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite354.com": dial tcp: lookup testsite354.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite355.com": dial tcp: lookup testsite355.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite356.com": dial tcp: lookup testsite356.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite357.com": dial tcp: lookup testsite357.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite358.com": dial tcp: lookup testsite358.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite359.com": dial tcp: lookup testsite359.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite361.com": dial tcp: lookup testsite361.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite362.com": dial tcp: lookup testsite362.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite363.com": dial tcp: lookup testsite363.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite364.com": dial tcp: lookup testsite364.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite365.com": dial tcp: lookup testsite365.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite366.com": dial tcp: lookup testsite366.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite367.com": dial tcp: lookup testsite367.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite368.com": dial tcp: lookup testsite368.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite369.com": dial tcp: lookup testsite369.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite370.com": dial tcp: lookup testsite370.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite371.com": dial tcp: lookup testsite371.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite372.com": dial tcp: lookup testsite372.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite373.com": dial tcp: lookup testsite373.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite374.com": dial tcp: lookup testsite374.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite375.com": dial tcp: lookup testsite375.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite376.com": dial tcp: lookup testsite376.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite377.com": dial tcp: lookup testsite377.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite378.com": dial tcp: lookup testsite378.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite379.com": dial tcp: lookup testsite379.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite380.com": dial tcp: lookup testsite380.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite381.com": dial tcp: lookup testsite381.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite382.com": dial tcp: lookup testsite382.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite383.com": dial tcp: lookup testsite383.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite384.com": dial tcp: lookup testsite384.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite385.com": dial tcp: lookup testsite385.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite386.com": dial tcp: lookup testsite386.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite387.com": dial tcp: lookup testsite387.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite388.com": dial tcp: lookup testsite388.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite389.com": dial tcp: lookup testsite389.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite390.com": dial tcp: lookup testsite390.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite391.com": dial tcp: lookup testsite391.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite392.com": dial tcp: lookup testsite392.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite393.com": dial tcp: lookup testsite393.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite394.com": dial tcp: lookup testsite394.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite395.com": dial tcp: lookup testsite395.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite396.com": dial tcp: lookup testsite396.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite397.com": dial tcp: lookup testsite397.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite398.com": dial tcp: lookup testsite398.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite399.com": dial tcp: lookup testsite399.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite400.com": dial tcp: lookup testsite400.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite401.com": dial tcp: lookup testsite401.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite402.com": dial tcp: lookup testsite402.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite403.com": dial tcp: lookup testsite403.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite405.com": dial tcp: lookup testsite405.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite406.com": dial tcp: lookup testsite406.com: no such host
+2025/05/04 23:26:03 Indicator :  UCU01  | Function :  email_url_checker/process/Urlchecker.CheckURL  | Line :  23  | Error :  Get "http://testsite407.com": dial tcp: lookup testsite407.com: no such host
+2025/05/04 23:26:03 ❌ Error Details ❌ 
